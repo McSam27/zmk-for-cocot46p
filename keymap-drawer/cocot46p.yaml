@@ -43,7 +43,7 @@ layers:
   - {t: '$$mdi:keyboard-space$$', h: Lower}
   - LEFT WIN
   - Raise
-  - $$mdi:keyboard-space$$
+  - {t: '$$mdi:keyboard-space$$', h: Raise}
   - $$mdi:apple-keyboard-option$$
   - RIGHT WIN
   - $$mdi:volume-off$$
@@ -139,7 +139,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held alternate}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
